@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Number\Magic Number\bin\Debug\Magic Number.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Number\Magic Number\bin\Debug\Magic Number.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Number\Magic Number\bin\Debug\Magic Number.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Number\Magic Number\obj\Debug\Magic Number.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Number\Magic Number\obj\Debug\Magic Number.pdb

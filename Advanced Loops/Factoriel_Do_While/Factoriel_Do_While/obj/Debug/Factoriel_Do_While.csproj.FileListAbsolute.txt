@@ -1,0 +1,6 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\bin\Debug\Factoriel_Do_While.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\bin\Debug\Factoriel_Do_While.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\bin\Debug\Factoriel_Do_While.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\obj\Debug\Factoriel_Do_While.csprojResolveAssemblyReference.cache
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\obj\Debug\Factoriel_Do_While.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Factoriel_Do_While\Factoriel_Do_While\obj\Debug\Factoriel_Do_While.pdb

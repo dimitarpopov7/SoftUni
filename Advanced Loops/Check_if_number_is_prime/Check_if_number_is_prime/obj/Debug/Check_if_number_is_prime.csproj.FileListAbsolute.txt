@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_if_number_is_prime\Check_if_number_is_prime\bin\Debug\Check_if_number_is_prime.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_if_number_is_prime\Check_if_number_is_prime\bin\Debug\Check_if_number_is_prime.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_if_number_is_prime\Check_if_number_is_prime\bin\Debug\Check_if_number_is_prime.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_if_number_is_prime\Check_if_number_is_prime\obj\Debug\Check_if_number_is_prime.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_if_number_is_prime\Check_if_number_is_prime\obj\Debug\Check_if_number_is_prime.pdb

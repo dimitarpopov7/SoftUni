@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Drawing_SunGlasses\Drawing_SunGlasses\bin\Debug\Drawing_SunGlasses.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Drawing_SunGlasses\Drawing_SunGlasses\bin\Debug\Drawing_SunGlasses.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Drawing_SunGlasses\Drawing_SunGlasses\bin\Debug\Drawing_SunGlasses.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Drawing_SunGlasses\Drawing_SunGlasses\obj\Debug\Drawing_SunGlasses.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Drawing_SunGlasses\Drawing_SunGlasses\obj\Debug\Drawing_SunGlasses.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Photo Prices\Photo Prices\bin\Debug\Photo Prices.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Photo Prices\Photo Prices\bin\Debug\Photo Prices.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Photo Prices\Photo Prices\bin\Debug\Photo Prices.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Photo Prices\Photo Prices\obj\Debug\Photo Prices.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Photo Prices\Photo Prices\obj\Debug\Photo Prices.pdb

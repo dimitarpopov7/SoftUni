@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Creates_A_Pyramid_Of_Numbers\Creates_A_Pyramid_Of_Numbers\bin\Debug\Creates_A_Pyramid_Of_Numbers.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Creates_A_Pyramid_Of_Numbers\Creates_A_Pyramid_Of_Numbers\bin\Debug\Creates_A_Pyramid_Of_Numbers.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Creates_A_Pyramid_Of_Numbers\Creates_A_Pyramid_Of_Numbers\bin\Debug\Creates_A_Pyramid_Of_Numbers.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Creates_A_Pyramid_Of_Numbers\Creates_A_Pyramid_Of_Numbers\obj\Debug\Creates_A_Pyramid_Of_Numbers.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Creates_A_Pyramid_Of_Numbers\Creates_A_Pyramid_Of_Numbers\obj\Debug\Creates_A_Pyramid_Of_Numbers.pdb

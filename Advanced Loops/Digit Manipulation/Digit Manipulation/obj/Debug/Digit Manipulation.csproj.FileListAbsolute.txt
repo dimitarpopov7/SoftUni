@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Digit Manipulation\Digit Manipulation\bin\Debug\Digit Manipulation.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Digit Manipulation\Digit Manipulation\bin\Debug\Digit Manipulation.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Digit Manipulation\Digit Manipulation\bin\Debug\Digit Manipulation.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Digit Manipulation\Digit Manipulation\obj\Debug\Digit Manipulation.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Digit Manipulation\Digit Manipulation\obj\Debug\Digit Manipulation.pdb

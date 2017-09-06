@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Rectangle With Stars\Rectangle With Stars\bin\Debug\Rectangle With Stars.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Rectangle With Stars\Rectangle With Stars\bin\Debug\Rectangle With Stars.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Rectangle With Stars\Rectangle With Stars\bin\Debug\Rectangle With Stars.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Rectangle With Stars\Rectangle With Stars\obj\Debug\Rectangle With Stars.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Rectangle With Stars\Rectangle With Stars\obj\Debug\Rectangle With Stars.pdb

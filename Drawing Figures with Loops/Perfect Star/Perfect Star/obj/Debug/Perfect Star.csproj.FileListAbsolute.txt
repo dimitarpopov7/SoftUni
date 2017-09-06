@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Perfect Star\Perfect Star\bin\Debug\Perfect Star.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Perfect Star\Perfect Star\bin\Debug\Perfect Star.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Perfect Star\Perfect Star\bin\Debug\Perfect Star.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Perfect Star\Perfect Star\obj\Debug\Perfect Star.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Perfect Star\Perfect Star\obj\Debug\Perfect Star.pdb

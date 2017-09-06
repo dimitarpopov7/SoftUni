@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Increasing Number\Increasing Number\bin\Debug\Increasing Number.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Increasing Number\Increasing Number\bin\Debug\Increasing Number.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Increasing Number\Increasing Number\bin\Debug\Increasing Number.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Increasing Number\Increasing Number\obj\Debug\Increasing Number.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Increasing Number\Increasing Number\obj\Debug\Increasing Number.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Generating Rectangles\Generating Rectangles\bin\Debug\Generating Rectangles.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Generating Rectangles\Generating Rectangles\bin\Debug\Generating Rectangles.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Generating Rectangles\Generating Rectangles\bin\Debug\Generating Rectangles.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Generating Rectangles\Generating Rectangles\obj\Debug\Generating Rectangles.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Generating Rectangles\Generating Rectangles\obj\Debug\Generating Rectangles.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Sum_of_number_digits\Sum_of_number_digits\bin\Debug\Sum_of_number_digits.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Sum_of_number_digits\Sum_of_number_digits\bin\Debug\Sum_of_number_digits.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Sum_of_number_digits\Sum_of_number_digits\bin\Debug\Sum_of_number_digits.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Sum_of_number_digits\Sum_of_number_digits\obj\Debug\Sum_of_number_digits.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Sum_of_number_digits\Sum_of_number_digits\obj\Debug\Sum_of_number_digits.pdb

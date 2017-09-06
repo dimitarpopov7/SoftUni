@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Dates\Magic Dates\obj\Debug\Magic Dates.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Magic Dates\Magic Dates\obj\Debug\Magic Dates.pdb

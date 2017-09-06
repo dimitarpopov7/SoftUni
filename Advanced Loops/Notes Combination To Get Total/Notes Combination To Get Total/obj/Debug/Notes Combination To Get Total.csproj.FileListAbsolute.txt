@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Notes Combination To Get Total\Notes Combination To Get Total\bin\Debug\Notes Combination To Get Total.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Notes Combination To Get Total\Notes Combination To Get Total\bin\Debug\Notes Combination To Get Total.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Notes Combination To Get Total\Notes Combination To Get Total\bin\Debug\Notes Combination To Get Total.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Notes Combination To Get Total\Notes Combination To Get Total\obj\Debug\Notes Combination To Get Total.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Notes Combination To Get Total\Notes Combination To Get Total\obj\Debug\Notes Combination To Get Total.pdb

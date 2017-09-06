@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\House\House\bin\Debug\House.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\House\House\bin\Debug\House.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\House\House\bin\Debug\House.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\House\House\obj\Debug\House.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\House\House\obj\Debug\House.pdb

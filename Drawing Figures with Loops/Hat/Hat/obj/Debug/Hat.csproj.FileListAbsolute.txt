@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Hat\Hat\bin\Debug\Hat.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Hat\Hat\bin\Debug\Hat.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Hat\Hat\bin\Debug\Hat.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Hat\Hat\obj\Debug\Hat.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Hat\Hat\obj\Debug\Hat.pdb

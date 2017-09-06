@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_Even_Number_Try_Catch\Check_Even_Number_Try_Catch\bin\Debug\Check_Even_Number_Try_Catch.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_Even_Number_Try_Catch\Check_Even_Number_Try_Catch\bin\Debug\Check_Even_Number_Try_Catch.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_Even_Number_Try_Catch\Check_Even_Number_Try_Catch\bin\Debug\Check_Even_Number_Try_Catch.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_Even_Number_Try_Catch\Check_Even_Number_Try_Catch\obj\Debug\Check_Even_Number_Try_Catch.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Check_Even_Number_Try_Catch\Check_Even_Number_Try_Catch\obj\Debug\Check_Even_Number_Try_Catch.pdb

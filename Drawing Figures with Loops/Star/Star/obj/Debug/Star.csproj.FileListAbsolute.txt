@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Star\Star\bin\Debug\Star.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Star\Star\bin\Debug\Star.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Star\Star\bin\Debug\Star.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Star\Star\obj\Debug\Star.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Star\Star\obj\Debug\Star.pdb

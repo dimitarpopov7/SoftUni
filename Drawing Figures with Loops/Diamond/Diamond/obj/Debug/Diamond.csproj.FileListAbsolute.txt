@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Diamond\Diamond\bin\Debug\Diamond.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Diamond\Diamond\bin\Debug\Diamond.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Diamond\Diamond\bin\Debug\Diamond.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Diamond\Diamond\obj\Debug\Diamond.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Diamond\Diamond\obj\Debug\Diamond.pdb

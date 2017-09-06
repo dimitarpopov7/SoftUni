@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Numbers_Table\Numbers_Table\bin\Debug\Numbers_Table.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Numbers_Table\Numbers_Table\bin\Debug\Numbers_Table.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Numbers_Table\Numbers_Table\bin\Debug\Numbers_Table.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Numbers_Table\Numbers_Table\obj\Debug\Numbers_Table.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Numbers_Table\Numbers_Table\obj\Debug\Numbers_Table.pdb

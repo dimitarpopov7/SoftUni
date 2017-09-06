@@ -1,0 +1,5 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Cake_Left\Cake_Left\bin\Debug\Cake_Left.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Cake_Left\Cake_Left\bin\Debug\Cake_Left.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Cake_Left\Cake_Left\bin\Debug\Cake_Left.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Cake_Left\Cake_Left\obj\Debug\Cake_Left.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\Cake_Left\Cake_Left\obj\Debug\Cake_Left.pdb
