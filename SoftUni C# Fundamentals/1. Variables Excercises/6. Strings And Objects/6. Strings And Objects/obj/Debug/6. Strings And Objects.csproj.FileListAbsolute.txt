@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\6. Strings And Objects\6. Strings And Objects\bin\Debug\_6.Strings_And_Objects.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\6. Strings And Objects\6. Strings And Objects\bin\Debug\_6.Strings_And_Objects.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\6. Strings And Objects\6. Strings And Objects\bin\Debug\_6.Strings_And_Objects.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\6. Strings And Objects\6. Strings And Objects\obj\Debug\_6.Strings_And_Objects.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\6. Strings And Objects\6. Strings And Objects\obj\Debug\_6.Strings_And_Objects.pdb

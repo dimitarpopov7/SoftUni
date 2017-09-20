@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\bin\Debug\_01.Hello_Name.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\bin\Debug\_01.Hello_Name.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\bin\Debug\_01.Hello_Name.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\obj\Debug\01. Hello Name.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\obj\Debug\_01.Hello_Name.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01. Hello Name\01. Hello Name\obj\Debug\_01.Hello_Name.pdb

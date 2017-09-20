@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\9. Reversed chars\9. Reversed chars\bin\Debug\_9.Reversed_chars.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\9. Reversed chars\9. Reversed chars\bin\Debug\_9.Reversed_chars.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\9. Reversed chars\9. Reversed chars\bin\Debug\_9.Reversed_chars.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\9. Reversed chars\9. Reversed chars\obj\Debug\_9.Reversed_chars.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\9. Reversed chars\9. Reversed chars\obj\Debug\_9.Reversed_chars.pdb

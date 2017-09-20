@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Longer Line\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Longer Line\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Longer Line\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Longer Line\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Longer Line\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Numbers in Reversed Order\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Numbers in Reversed Order\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Numbers in Reversed Order\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Numbers in Reversed Order\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Numbers in Reversed Order\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

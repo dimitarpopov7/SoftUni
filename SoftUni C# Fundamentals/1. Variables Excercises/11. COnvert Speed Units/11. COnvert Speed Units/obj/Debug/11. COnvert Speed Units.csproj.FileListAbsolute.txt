@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\11. COnvert Speed Units\11. COnvert Speed Units\bin\Debug\_11.COnvert_Speed_Units.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\11. COnvert Speed Units\11. COnvert Speed Units\bin\Debug\_11.COnvert_Speed_Units.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\11. COnvert Speed Units\11. COnvert Speed Units\bin\Debug\_11.COnvert_Speed_Units.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\11. COnvert Speed Units\11. COnvert Speed Units\obj\Debug\_11.COnvert_Speed_Units.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\11. COnvert Speed Units\11. COnvert Speed Units\obj\Debug\_11.COnvert_Speed_Units.pdb

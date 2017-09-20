@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

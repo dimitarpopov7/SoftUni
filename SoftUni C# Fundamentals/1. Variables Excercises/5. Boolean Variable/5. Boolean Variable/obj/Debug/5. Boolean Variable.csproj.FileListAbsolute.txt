@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\5. Boolean Variable\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\5. Boolean Variable\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\5. Boolean Variable\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\10. Centuries to Nanoseconds\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. English Name of Last Digit\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. English Name of Last Digit\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. English Name of Last Digit\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. English Name of Last Digit\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. English Name of Last Digit\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb

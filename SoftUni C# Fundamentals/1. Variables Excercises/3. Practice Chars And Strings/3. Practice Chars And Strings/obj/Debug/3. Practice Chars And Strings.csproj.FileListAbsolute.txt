@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\3. Practice Chars And Strings\3. Practice Chars And Strings\bin\Debug\_3.Practice_Chars_And_Strings.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\3. Practice Chars And Strings\3. Practice Chars And Strings\bin\Debug\_3.Practice_Chars_And_Strings.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\3. Practice Chars And Strings\3. Practice Chars And Strings\bin\Debug\_3.Practice_Chars_And_Strings.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\3. Practice Chars And Strings\3. Practice Chars And Strings\obj\Debug\_3.Practice_Chars_And_Strings.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\3. Practice Chars And Strings\3. Practice Chars And Strings\obj\Debug\_3.Practice_Chars_And_Strings.pdb

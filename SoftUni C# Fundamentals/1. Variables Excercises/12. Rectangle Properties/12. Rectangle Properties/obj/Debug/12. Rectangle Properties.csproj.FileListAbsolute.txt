@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\12. Rectangle Properties\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\12. Rectangle Properties\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\12. Rectangle Properties\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\12. Rectangle Properties\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\12. Rectangle Properties\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

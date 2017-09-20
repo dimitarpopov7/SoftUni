@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\7. Exchange Variable Values\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\7. Exchange Variable Values\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\7. Exchange Variable Values\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.pdb
