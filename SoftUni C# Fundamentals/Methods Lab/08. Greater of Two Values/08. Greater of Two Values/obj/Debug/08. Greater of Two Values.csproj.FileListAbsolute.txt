@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\08. Greater of Two Values\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\08. Greater of Two Values\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\08. Greater of Two Values\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\08. Greater of Two Values\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\08. Greater of Two Values\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.pdb

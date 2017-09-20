@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\09. Multiply Evens by Odds\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\09. Multiply Evens by Odds\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\09. Multiply Evens by Odds\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\09. Multiply Evens by Odds\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\09. Multiply Evens by Odds\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\07. Math Power\07. Math Power\bin\Debug\_07.Math_Power.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\07. Math Power\07. Math Power\bin\Debug\_07.Math_Power.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\07. Math Power\07. Math Power\bin\Debug\_07.Math_Power.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\07. Math Power\07. Math Power\obj\Debug\_07.Math_Power.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\07. Math Power\07. Math Power\obj\Debug\_07.Math_Power.pdb

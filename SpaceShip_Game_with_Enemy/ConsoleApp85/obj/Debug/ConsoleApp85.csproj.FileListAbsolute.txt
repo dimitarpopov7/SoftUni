@@ -1,0 +1,6 @@
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe.config
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.pdb
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csprojResolveAssemblyReference.cache
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.exe
+c:\users\dimit\onedrive\documents\visual studio 2017\Projects\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.pdb

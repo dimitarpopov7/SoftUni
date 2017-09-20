@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\06. Calculate Triangle Area\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\06. Calculate Triangle Area\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\06. Calculate Triangle Area\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\06. Calculate Triangle Area\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\06. Calculate Triangle Area\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

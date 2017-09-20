@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\03. Printing Triangle\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\03. Printing Triangle\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\03. Printing Triangle\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\03. Printing Triangle\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\Variables\03. Printing Triangle\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb
