@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Max Sequence of Inc Elements\07. Max Sequence of Inc Elements\bin\Debug\_07.Max_Sequence_of_Inc_Elements.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Max Sequence of Inc Elements\07. Max Sequence of Inc Elements\bin\Debug\_07.Max_Sequence_of_Inc_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Max Sequence of Inc Elements\07. Max Sequence of Inc Elements\bin\Debug\_07.Max_Sequence_of_Inc_Elements.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Max Sequence of Inc Elements\07. Max Sequence of Inc Elements\obj\Debug\_07.Max_Sequence_of_Inc_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Max Sequence of Inc Elements\07. Max Sequence of Inc Elements\obj\Debug\_07.Max_Sequence_of_Inc_Elements.pdb

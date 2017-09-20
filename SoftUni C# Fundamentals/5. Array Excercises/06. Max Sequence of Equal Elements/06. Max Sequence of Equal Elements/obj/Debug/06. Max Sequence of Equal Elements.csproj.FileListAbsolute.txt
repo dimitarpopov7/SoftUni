@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements\obj\Debug\_06.Max_Sequence_of_Equal_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements\obj\Debug\_06.Max_Sequence_of_Equal_Elements.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Sieve of Eratosthenes\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Sieve of Eratosthenes\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Sieve of Eratosthenes\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Sieve of Eratosthenes\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Sieve of Eratosthenes\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.pdb

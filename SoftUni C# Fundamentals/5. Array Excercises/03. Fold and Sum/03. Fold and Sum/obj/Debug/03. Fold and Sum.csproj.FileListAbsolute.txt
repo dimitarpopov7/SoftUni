@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Fold and Sum\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Fold and Sum\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Fold and Sum\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Fold and Sum\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Fold and Sum\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.pdb
