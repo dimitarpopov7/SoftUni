@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Sum Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Sum Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Sum Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Sum Arrays\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. Sum Arrays\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.pdb

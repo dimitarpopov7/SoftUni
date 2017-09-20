@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Extract Middle Elements\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Extract Middle Elements\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Extract Middle Elements\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Extract Middle Elements\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Extract Middle Elements\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb

@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\05. Rounding Numbers\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\05. Rounding Numbers\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\05. Rounding Numbers\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\05. Rounding Numbers\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\05. Rounding Numbers\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb
