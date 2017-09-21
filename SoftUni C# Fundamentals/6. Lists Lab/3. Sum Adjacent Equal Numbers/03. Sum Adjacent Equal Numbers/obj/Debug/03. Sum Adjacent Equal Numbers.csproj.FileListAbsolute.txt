@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Sum Adjacent Equal Numbers\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Sum Adjacent Equal Numbers\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Sum Adjacent Equal Numbers\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Sum Adjacent Equal Numbers\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Sum Adjacent Equal Numbers\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

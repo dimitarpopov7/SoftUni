@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Append Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Append Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Append Lists\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Append Lists\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Append Lists\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

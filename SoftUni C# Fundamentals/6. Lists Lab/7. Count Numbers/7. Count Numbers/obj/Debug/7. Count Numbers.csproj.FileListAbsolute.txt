@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\bin\Debug\_7.Count_Numbers.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\bin\Debug\_7.Count_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\bin\Debug\_7.Count_Numbers.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\obj\Debug\7. Count Numbers.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\obj\Debug\_7.Count_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Count Numbers\7. Count Numbers\obj\Debug\_7.Count_Numbers.pdb

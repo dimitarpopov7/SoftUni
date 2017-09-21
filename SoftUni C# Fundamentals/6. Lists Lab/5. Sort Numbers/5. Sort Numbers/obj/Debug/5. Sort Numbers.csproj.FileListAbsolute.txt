@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\obj\Debug\5. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Sort Numbers\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb
