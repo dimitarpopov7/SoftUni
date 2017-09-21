@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\obj\Debug\11. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Equal Sums\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

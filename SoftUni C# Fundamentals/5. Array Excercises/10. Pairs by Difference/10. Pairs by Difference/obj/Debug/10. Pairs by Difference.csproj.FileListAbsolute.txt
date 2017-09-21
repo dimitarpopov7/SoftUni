@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Pairs by Difference\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Pairs by Difference\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Pairs by Difference\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Pairs by Difference\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Pairs by Difference\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb
