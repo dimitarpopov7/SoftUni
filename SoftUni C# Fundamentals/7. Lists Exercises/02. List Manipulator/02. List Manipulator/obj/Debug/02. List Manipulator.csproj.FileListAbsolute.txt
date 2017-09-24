@@ -1,0 +1,5 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\02. List Manipulator\02. List Manipulator\bin\Debug\_02.List_Manipulator.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\02. List Manipulator\02. List Manipulator\bin\Debug\_02.List_Manipulator.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\02. List Manipulator\02. List Manipulator\bin\Debug\_02.List_Manipulator.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\02. List Manipulator\02. List Manipulator\obj\Debug\_02.List_Manipulator.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\02. List Manipulator\02. List Manipulator\obj\Debug\_02.List_Manipulator.pdb

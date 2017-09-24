@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\bin\Debug\_01.Max_Seq_of_Equal_Nums.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\bin\Debug\_01.Max_Seq_of_Equal_Nums.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\bin\Debug\_01.Max_Seq_of_Equal_Nums.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\obj\Debug\01. Max Seq of Equal Nums.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\obj\Debug\_01.Max_Seq_of_Equal_Nums.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\01. Max Seq of Equal Nums\01. Max Seq of Equal Nums\obj\Debug\_01.Max_Seq_of_Equal_Nums.pdb

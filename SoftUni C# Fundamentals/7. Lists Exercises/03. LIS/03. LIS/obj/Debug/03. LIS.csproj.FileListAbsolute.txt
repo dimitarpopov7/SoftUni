@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\bin\Debug\_03.LIS.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\bin\Debug\_03.LIS.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\bin\Debug\_03.LIS.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\obj\Debug\03. LIS.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\obj\Debug\_03.LIS.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\03. LIS\03. LIS\obj\Debug\_03.LIS.pdb
