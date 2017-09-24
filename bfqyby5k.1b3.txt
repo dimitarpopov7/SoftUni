@@ -1,0 +1,32 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/.vs/1. Max Sequence of Equal Elements/v15/.suo
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements.sln
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements.csproj
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/App.config
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/bin/Debug/_1.Max_Sequence_of_Equal_Elements.exe
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/bin/Debug/_1.Max_Sequence_of_Equal_Elements.exe.config
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/bin/Debug/_1.Max_Sequence_of_Equal_Elements.pdb
+#	new file:   SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/1. Max Sequence of Equal Elements.csproj.FileListAbsolute.txt
+#
+# Untracked files:
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/Program.cs
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/Properties/
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/CoreCompileInputs.cache
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/_1.Max_Sequence_of_Equal_Elements.exe
+#	SoftUni C# Fundamentals/7. List Exercises/1. Max Sequence of Equal Elements/1. Max Sequence of Equal Elements/obj/Debug/_1.Max_Sequence_of_Equal_Elements.pdb
+#	SoftUni C# Fundamentals/7. List Exercises/2.Longest Increasing Subsequence (LIS)/
+#	SoftUni C# Fundamentals/7. List Exercises/3.1 Array Manipulator/
+#	SoftUni C# Fundamentals/7. List Exercises/3.2 Array Manipulator/
+#
+
