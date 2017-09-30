@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Logs Aggregator", "08. Logs Aggregator\08. Logs Aggregator.csproj", "{ABB4EBE4-2A20-4591-BF70-02CB951ED713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB4EBE4-2A20-4591-BF70-02CB951ED713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB4EBE4-2A20-4591-BF70-02CB951ED713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB4EBE4-2A20-4591-BF70-02CB951ED713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB4EBE4-2A20-4591-BF70-02CB951ED713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
