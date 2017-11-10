@@ -1,0 +1,10 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\obj\Debug\_1.Reverse_Numbers_with_Stack.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\obj\Debug\_1.Reverse_Numbers_with_Stack.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# Advanced\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# Advanced\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# Advanced\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\bin\Debug\_1.Reverse_Numbers_with_Stack.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# Advanced\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\obj\Debug\_1.Reverse_Numbers_with_Stack.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# Advanced\1. Reverse Numbers with Stack\1. Reverse Numbers with Stack\obj\Debug\_1.Reverse_Numbers_with_Stack.pdb
