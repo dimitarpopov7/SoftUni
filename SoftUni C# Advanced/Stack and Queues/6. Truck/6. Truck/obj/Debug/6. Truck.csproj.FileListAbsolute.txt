@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\bin\Debug\_6.Truck.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\bin\Debug\_6.Truck.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\bin\Debug\_6.Truck.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\obj\Debug\6. Truck.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\obj\Debug\_6.Truck.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Truck\6. Truck\obj\Debug\_6.Truck.pdb

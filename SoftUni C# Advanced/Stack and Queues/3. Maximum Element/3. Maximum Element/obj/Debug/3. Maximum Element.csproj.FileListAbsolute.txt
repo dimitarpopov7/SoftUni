@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\bin\Debug\_3.Maximum_Element.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\obj\Debug\3. Maximum Element.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\obj\Debug\_3.Maximum_Element.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Maximum Element\3. Maximum Element\obj\Debug\_3.Maximum_Element.pdb
