@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\obj\Debug\8. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Recursive Fibonacci\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.pdb
