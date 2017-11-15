@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Count Symbols\4. Count Symbols\bin\Debug\_4.Count_Symbols.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Count Symbols\4. Count Symbols\bin\Debug\_4.Count_Symbols.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Count Symbols\4. Count Symbols\bin\Debug\_4.Count_Symbols.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Count Symbols\4. Count Symbols\obj\Debug\_4.Count_Symbols.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Count Symbols\4. Count Symbols\obj\Debug\_4.Count_Symbols.pdb

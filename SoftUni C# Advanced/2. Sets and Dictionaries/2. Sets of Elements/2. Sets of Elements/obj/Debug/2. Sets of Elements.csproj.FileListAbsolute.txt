@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\obj\Debug\2. Sets of Elements.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\obj\Debug\_2.Sets_of_Elements.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Sets of Elements\2. Sets of Elements\obj\Debug\_2.Sets_of_Elements.pdb

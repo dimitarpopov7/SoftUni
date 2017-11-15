@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\bin\Debug\_03.Miner_Task.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\bin\Debug\_03.Miner_Task.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\bin\Debug\_03.Miner_Task.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\obj\Debug\03. Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\obj\Debug\_03.Miner_Task.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03. Miner Task\03. Miner Task\obj\Debug\_03.Miner_Task.pdb

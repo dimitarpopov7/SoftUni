@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\bin\Debug\_11.Dragon_Army.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\obj\Debug\11. Dragon Army.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\obj\Debug\_11.Dragon_Army.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Dragon Army\11. Dragon Army\obj\Debug\_11.Dragon_Army.pdb

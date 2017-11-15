@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\bin\Debug\_06.User_Logs.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\bin\Debug\_06.User_Logs.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\obj\Debug\_06.User_Logs.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\06. User Logs\06. User Logs\obj\Debug\_06.User_Logs.pdb

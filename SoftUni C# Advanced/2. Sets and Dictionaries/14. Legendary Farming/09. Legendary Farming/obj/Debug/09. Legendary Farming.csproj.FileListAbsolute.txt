@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\obj\Debug\09. Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\09. Legendary Farming\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.pdb

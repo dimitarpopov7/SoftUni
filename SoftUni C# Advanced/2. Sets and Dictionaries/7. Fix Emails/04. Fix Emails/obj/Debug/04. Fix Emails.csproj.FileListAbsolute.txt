@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Fix Emails\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Fix Emails\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Fix Emails\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Fix Emails\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Fix Emails\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

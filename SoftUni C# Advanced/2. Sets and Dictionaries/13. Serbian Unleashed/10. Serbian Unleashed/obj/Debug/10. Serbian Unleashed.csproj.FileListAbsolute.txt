@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\bin\Debug\_10.Serbian_Unleashed.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\bin\Debug\_10.Serbian_Unleashed.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\bin\Debug\_10.Serbian_Unleashed.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\obj\Debug\10. Serbian Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\obj\Debug\_10.Serbian_Unleashed.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Serbian Unleashed\10. Serbian Unleashed\obj\Debug\_10.Serbian_Unleashed.pdb

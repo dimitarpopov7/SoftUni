@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Periodic Table\3. Periodic Table\bin\Debug\_3.Periodic_Table.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Periodic Table\3. Periodic Table\bin\Debug\_3.Periodic_Table.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Periodic Table\3. Periodic Table\bin\Debug\_3.Periodic_Table.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Periodic Table\3. Periodic Table\obj\Debug\_3.Periodic_Table.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Periodic Table\3. Periodic Table\obj\Debug\_3.Periodic_Table.pdb
