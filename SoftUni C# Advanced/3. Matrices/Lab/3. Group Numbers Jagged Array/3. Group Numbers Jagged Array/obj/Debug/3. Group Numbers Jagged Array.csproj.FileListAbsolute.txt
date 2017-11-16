@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\bin\Debug\_3.Group_Numbers_Jagged_Array.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\bin\Debug\_3.Group_Numbers_Jagged_Array.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\bin\Debug\_3.Group_Numbers_Jagged_Array.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\obj\Debug\3. Group Numbers Jagged Array.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\obj\Debug\_3.Group_Numbers_Jagged_Array.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Group Numbers Jagged Array\3. Group Numbers Jagged Array\obj\Debug\_3.Group_Numbers_Jagged_Array.pdb

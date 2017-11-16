@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Sum Matrix Elements\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb

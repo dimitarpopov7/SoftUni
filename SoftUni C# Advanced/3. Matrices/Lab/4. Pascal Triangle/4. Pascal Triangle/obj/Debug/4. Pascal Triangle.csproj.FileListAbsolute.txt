@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\obj\Debug\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Pascal Triangle\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.pdb
