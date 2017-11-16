@@ -1,5 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Basic Queue Operations\4. Basic Queue Operations\bin\Debug\_4.Basic_Queue_Operations.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Basic Queue Operations\4. Basic Queue Operations\bin\Debug\_4.Basic_Queue_Operations.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Basic Queue Operations\4. Basic Queue Operations\bin\Debug\_4.Basic_Queue_Operations.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Basic Queue Operations\4. Basic Queue Operations\obj\Debug\_4.Basic_Queue_Operations.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Basic Queue Operations\4. Basic Queue Operations\obj\Debug\_4.Basic_Queue_Operations.pdb

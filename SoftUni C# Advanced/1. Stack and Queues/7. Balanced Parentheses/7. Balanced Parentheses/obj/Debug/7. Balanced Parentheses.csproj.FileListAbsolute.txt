@@ -1,5 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Balanced Parentheses\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Balanced Parentheses\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Balanced Parentheses\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Balanced Parentheses\7. Balanced Parentheses\obj\Debug\_7.Balanced_Parentheses.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Balanced Parentheses\7. Balanced Parentheses\obj\Debug\_7.Balanced_Parentheses.pdb

@@ -1,5 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Stack Fibonacci\9. Stack Fibonacci\bin\Debug\_9.Stack_Fibonacci.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Stack Fibonacci\9. Stack Fibonacci\bin\Debug\_9.Stack_Fibonacci.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Stack Fibonacci\9. Stack Fibonacci\bin\Debug\_9.Stack_Fibonacci.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Stack Fibonacci\9. Stack Fibonacci\obj\Debug\_9.Stack_Fibonacci.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Stack Fibonacci\9. Stack Fibonacci\obj\Debug\_9.Stack_Fibonacci.pdb
