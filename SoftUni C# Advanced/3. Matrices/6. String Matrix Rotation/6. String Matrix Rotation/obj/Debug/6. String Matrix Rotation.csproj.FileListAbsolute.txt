@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\bin\Debug\_6.String_Matrix_Rotation.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\bin\Debug\_6.String_Matrix_Rotation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\bin\Debug\_6.String_Matrix_Rotation.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\obj\Debug\6. String Matrix Rotation.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\obj\Debug\_6.String_Matrix_Rotation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. String Matrix Rotation\6. String Matrix Rotation\obj\Debug\_6.String_Matrix_Rotation.pdb
