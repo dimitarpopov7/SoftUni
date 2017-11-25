@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\bin\Debug\_3.Series_of_Letters.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\bin\Debug\_3.Series_of_Letters.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\bin\Debug\_3.Series_of_Letters.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\obj\Debug\3. Series of Letters.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\obj\Debug\_3.Series_of_Letters.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Series of Letters\3. Series of Letters\obj\Debug\_3.Series_of_Letters.pdb

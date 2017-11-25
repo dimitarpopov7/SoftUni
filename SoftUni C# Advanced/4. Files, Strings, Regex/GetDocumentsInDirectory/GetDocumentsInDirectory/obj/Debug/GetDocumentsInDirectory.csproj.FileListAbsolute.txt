@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\bin\Debug\GetDocumentsInDirectory.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\bin\Debug\GetDocumentsInDirectory.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\bin\Debug\GetDocumentsInDirectory.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\obj\Debug\GetDocumentsInDirectory.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\obj\Debug\GetDocumentsInDirectory.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\GetDocumentsInDirectory\GetDocumentsInDirectory\obj\Debug\GetDocumentsInDirectory.pdb
