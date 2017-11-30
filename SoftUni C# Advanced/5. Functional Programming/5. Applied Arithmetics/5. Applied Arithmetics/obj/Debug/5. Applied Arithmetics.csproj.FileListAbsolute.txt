@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\_5.Applied_Arithmetics.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\_5.Applied_Arithmetics.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\bin\Debug\_5.Applied_Arithmetics.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\5. Applied Arithmetics.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\_5.Applied_Arithmetics.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Applied Arithmetics\5. Applied Arithmetics\obj\Debug\_5.Applied_Arithmetics.pdb

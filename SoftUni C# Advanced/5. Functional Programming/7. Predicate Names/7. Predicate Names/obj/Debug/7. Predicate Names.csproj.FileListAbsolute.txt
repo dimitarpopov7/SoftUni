@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Predicate Names\7. Predicate Names\bin\Debug\_7.Predicate_Names.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Predicate Names\7. Predicate Names\bin\Debug\_7.Predicate_Names.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Predicate Names\7. Predicate Names\bin\Debug\_7.Predicate_Names.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Predicate Names\7. Predicate Names\obj\Debug\_7.Predicate_Names.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Predicate Names\7. Predicate Names\obj\Debug\_7.Predicate_Names.pdb
