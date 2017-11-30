@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\bin\Debug\_13.TriFunction.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\bin\Debug\_13.TriFunction.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\bin\Debug\_13.TriFunction.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\obj\Debug\13. TriFunction.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\obj\Debug\_13.TriFunction.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. TriFunction\13. TriFunction\obj\Debug\_13.TriFunction.pdb
