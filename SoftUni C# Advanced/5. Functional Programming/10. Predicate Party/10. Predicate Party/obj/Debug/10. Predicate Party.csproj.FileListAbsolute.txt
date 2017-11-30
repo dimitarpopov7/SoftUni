@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\bin\Debug\_10.Predicate_Party.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\bin\Debug\_10.Predicate_Party.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\bin\Debug\_10.Predicate_Party.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\obj\Debug\10. Predicate Party.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\obj\Debug\_10.Predicate_Party.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Predicate Party\10. Predicate Party\obj\Debug\_10.Predicate_Party.pdb

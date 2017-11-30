@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Custom Min Function\3. Custom Min Function\bin\Debug\_3.Custom_Min_Function.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Custom Min Function\3. Custom Min Function\bin\Debug\_3.Custom_Min_Function.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Custom Min Function\3. Custom Min Function\bin\Debug\_3.Custom_Min_Function.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Custom Min Function\3. Custom Min Function\obj\Debug\_3.Custom_Min_Function.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Custom Min Function\3. Custom Min Function\obj\Debug\_3.Custom_Min_Function.pdb
