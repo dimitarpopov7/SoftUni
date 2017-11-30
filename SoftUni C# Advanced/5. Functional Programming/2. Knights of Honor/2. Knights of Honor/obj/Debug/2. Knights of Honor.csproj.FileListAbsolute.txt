@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Knights of Honor\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Knights of Honor\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Knights of Honor\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Knights of Honor\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Knights of Honor\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.pdb

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\bin\Debug\_4.Find_Even_or_Odds.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\bin\Debug\_4.Find_Even_or_Odds.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\bin\Debug\_4.Find_Even_or_Odds.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\obj\Debug\_4.Find_Even_or_Odds.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\obj\Debug\_4.Find_Even_or_Odds.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Find Even or Odds\4. Find Even or Odds\obj\Debug\4. Find Even or Odds.csprojResolveAssemblyReference.cache
