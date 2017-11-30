@@ -1,6 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\bin\Debug\_12.Inferno_III.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\bin\Debug\_12.Inferno_III.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\bin\Debug\_12.Inferno_III.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\obj\Debug\_12.Inferno_III.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\obj\Debug\_12.Inferno_III.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Inferno III\12. Inferno III\obj\Debug\12. Inferno III.csprojResolveAssemblyReference.cache

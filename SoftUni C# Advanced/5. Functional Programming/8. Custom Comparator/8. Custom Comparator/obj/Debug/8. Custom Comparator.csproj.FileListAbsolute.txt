@@ -1,5 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Custom Comparator\8. Custom Comparator\bin\Debug\_8.Custom_Comparator.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Custom Comparator\8. Custom Comparator\bin\Debug\_8.Custom_Comparator.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Custom Comparator\8. Custom Comparator\bin\Debug\_8.Custom_Comparator.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Custom Comparator\8. Custom Comparator\obj\Debug\_8.Custom_Comparator.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Custom Comparator\8. Custom Comparator\obj\Debug\_8.Custom_Comparator.pdb
