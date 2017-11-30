@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reverse and Exclude\6. Reverse and Exclude\bin\Debug\_6.Reverse_and_Exclude.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reverse and Exclude\6. Reverse and Exclude\bin\Debug\_6.Reverse_and_Exclude.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reverse and Exclude\6. Reverse and Exclude\bin\Debug\_6.Reverse_and_Exclude.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reverse and Exclude\6. Reverse and Exclude\obj\Debug\_6.Reverse_and_Exclude.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reverse and Exclude\6. Reverse and Exclude\obj\Debug\_6.Reverse_and_Exclude.pdb

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\bin\Debug\_1.Action_Print.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\bin\Debug\_1.Action_Print.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\bin\Debug\_1.Action_Print.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\obj\Debug\1. Action Print.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\obj\Debug\_1.Action_Print.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Action Print\1. Action Print\obj\Debug\_1.Action_Print.pdb
