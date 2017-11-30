@@ -1,6 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\bin\Debug\_9.List_of_Predicates.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\bin\Debug\_9.List_of_Predicates.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\bin\Debug\_9.List_of_Predicates.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\obj\Debug\9. List of Predicates.csprojResolveAssemblyReference.cache
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\obj\Debug\_9.List_of_Predicates.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. List of Predicates\9. List of Predicates\obj\Debug\_9.List_of_Predicates.pdb
