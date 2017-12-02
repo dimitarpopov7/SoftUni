@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\bin\Debug\_10.Group_by_Group.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\bin\Debug\_10.Group_by_Group.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\bin\Debug\_10.Group_by_Group.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\obj\Debug\10. Group by Group.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\obj\Debug\_10.Group_by_Group.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Group by Group\10. Group by Group\obj\Debug\_10.Group_by_Group.pdb
