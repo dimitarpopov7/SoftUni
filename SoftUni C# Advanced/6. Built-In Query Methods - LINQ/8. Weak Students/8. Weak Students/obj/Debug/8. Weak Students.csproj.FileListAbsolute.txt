@@ -1,5 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Weak Students\8. Weak Students\bin\Debug\_8.Weak_Students.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Weak Students\8. Weak Students\bin\Debug\_8.Weak_Students.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Weak Students\8. Weak Students\bin\Debug\_8.Weak_Students.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Weak Students\8. Weak Students\obj\Debug\_8.Weak_Students.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Weak Students\8. Weak Students\obj\Debug\_8.Weak_Students.pdb

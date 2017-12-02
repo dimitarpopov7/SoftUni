@@ -1,6 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\obj\Debug\2. Student By F and L name.csprojResolveAssemblyReference.cache
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\bin\Debug\_2.Student_By_F_and_L_name.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\bin\Debug\_2.Student_By_F_and_L_name.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\bin\Debug\_2.Student_By_F_and_L_name.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\obj\Debug\_2.Student_By_F_and_L_name.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Student By F and L name\2. Student By F and L name\obj\Debug\_2.Student_By_F_and_L_name.pdb
