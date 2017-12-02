@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Excellent Students\7. Excellent Students\bin\Debug\_7.Excellent_Students.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Excellent Students\7. Excellent Students\bin\Debug\_7.Excellent_Students.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Excellent Students\7. Excellent Students\bin\Debug\_7.Excellent_Students.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Excellent Students\7. Excellent Students\obj\Debug\_7.Excellent_Students.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Excellent Students\7. Excellent Students\obj\Debug\_7.Excellent_Students.pdb

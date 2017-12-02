@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Students by Phone\6. Students by Phone\bin\Debug\_6.Students_by_Phone.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Students by Phone\6. Students by Phone\bin\Debug\_6.Students_by_Phone.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Students by Phone\6. Students by Phone\bin\Debug\_6.Students_by_Phone.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Students by Phone\6. Students by Phone\obj\Debug\_6.Students_by_Phone.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Students by Phone\6. Students by Phone\obj\Debug\_6.Students_by_Phone.pdb

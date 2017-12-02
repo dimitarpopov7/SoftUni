@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Students By Surname\4. Students By Surname\bin\Debug\_4.Students_By_Surname.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Students By Surname\4. Students By Surname\bin\Debug\_4.Students_By_Surname.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Students By Surname\4. Students By Surname\bin\Debug\_4.Students_By_Surname.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Students By Surname\4. Students By Surname\obj\Debug\_4.Students_By_Surname.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Students By Surname\4. Students By Surname\obj\Debug\_4.Students_By_Surname.pdb

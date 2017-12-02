@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Students Filter by Email\5. Students Filter by Email\bin\Debug\_5.Students_Filter_by_Email.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Students Filter by Email\5. Students Filter by Email\bin\Debug\_5.Students_Filter_by_Email.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Students Filter by Email\5. Students Filter by Email\bin\Debug\_5.Students_Filter_by_Email.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Students Filter by Email\5. Students Filter by Email\obj\Debug\_5.Students_Filter_by_Email.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Students Filter by Email\5. Students Filter by Email\obj\Debug\_5.Students_Filter_by_Email.pdb
