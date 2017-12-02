@@ -1,6 +1,0 @@
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\bin\Debug\_1.Students_By_Groups.exe.config
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\bin\Debug\_1.Students_By_Groups.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\bin\Debug\_1.Students_By_Groups.pdb
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\obj\Debug\1. Students By Groups.csprojResolveAssemblyReference.cache
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\obj\Debug\_1.Students_By_Groups.exe
-c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Students By Groups\1. Students By Groups\obj\Debug\_1.Students_By_Groups.pdb
