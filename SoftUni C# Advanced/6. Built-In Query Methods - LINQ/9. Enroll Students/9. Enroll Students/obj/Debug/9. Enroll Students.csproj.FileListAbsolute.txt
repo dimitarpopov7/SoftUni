@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\bin\Debug\_9.Enroll_Students.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\bin\Debug\_9.Enroll_Students.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\bin\Debug\_9.Enroll_Students.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\obj\Debug\9. Enroll Students.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\obj\Debug\_9.Enroll_Students.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Enroll Students\9. Enroll Students\obj\Debug\_9.Enroll_Students.pdb
