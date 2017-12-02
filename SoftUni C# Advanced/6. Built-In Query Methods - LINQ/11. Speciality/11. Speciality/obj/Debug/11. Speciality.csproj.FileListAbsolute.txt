@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\bin\Debug\_11.Speciality.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\bin\Debug\_11.Speciality.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\bin\Debug\_11.Speciality.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\obj\Debug\11. Speciality.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\obj\Debug\_11.Speciality.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Speciality\11. Speciality\obj\Debug\_11.Speciality.pdb
