@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\obj\Debug\12. Little John.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\bin\Debug\_12.Little_John.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\bin\Debug\_12.Little_John.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\bin\Debug\_12.Little_John.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\obj\Debug\_12.Little_John.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\12. Little John\12. Little John\obj\Debug\_12.Little_John.pdb

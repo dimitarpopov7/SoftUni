@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\bin\Debug\_13.Office_Stuff.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\bin\Debug\_13.Office_Stuff.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\bin\Debug\_13.Office_Stuff.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\obj\Debug\13. Office Stuff.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\obj\Debug\_13.Office_Stuff.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\13. Office Stuff\13. Office Stuff\obj\Debug\_13.Office_Stuff.pdb
