@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\bin\Debug\_02.Jedi_Galaxy.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\obj\Debug\02. Jedi Galaxy.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\obj\Debug\_02.Jedi_Galaxy.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Jedi Galaxy\02. Jedi Galaxy\obj\Debug\_02.Jedi_Galaxy.pdb

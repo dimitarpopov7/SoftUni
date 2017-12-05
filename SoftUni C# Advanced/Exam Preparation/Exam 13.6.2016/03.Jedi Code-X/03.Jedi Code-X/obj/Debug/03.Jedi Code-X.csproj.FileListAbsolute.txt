@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\bin\Debug\03.Jedi Code-X.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\bin\Debug\03.Jedi Code-X.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\bin\Debug\03.Jedi Code-X.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\obj\Debug\03.Jedi Code-X.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\obj\Debug\03.Jedi Code-X.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\03.Jedi Code-X\03.Jedi Code-X\obj\Debug\03.Jedi Code-X.csprojResolveAssemblyReference.cache

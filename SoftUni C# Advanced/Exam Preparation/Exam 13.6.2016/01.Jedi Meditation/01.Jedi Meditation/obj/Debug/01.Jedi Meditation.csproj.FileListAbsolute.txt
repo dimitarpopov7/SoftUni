@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\bin\Debug\01.Jedi Meditation.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\bin\Debug\01.Jedi Meditation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\bin\Debug\01.Jedi Meditation.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\obj\Debug\01.Jedi Meditation.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\obj\Debug\01.Jedi Meditation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\01.Jedi Meditation\01.Jedi Meditation\obj\Debug\01.Jedi Meditation.pdb
