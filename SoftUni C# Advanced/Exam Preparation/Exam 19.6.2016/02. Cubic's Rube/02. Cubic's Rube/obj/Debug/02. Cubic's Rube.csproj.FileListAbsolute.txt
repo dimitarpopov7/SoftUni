@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\02. Cubic's Rube\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.pdb

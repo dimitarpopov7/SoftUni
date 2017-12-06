@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\bin\Debug\IV.Cubic_s_Messages.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\bin\Debug\IV.Cubic_s_Messages.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\bin\Debug\IV.Cubic_s_Messages.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\obj\Debug\IV. Cubic's Messages.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\obj\Debug\IV.Cubic_s_Messages.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\IV. Cubic's Messages\IV. Cubic's Messages\obj\Debug\IV.Cubic_s_Messages.pdb
