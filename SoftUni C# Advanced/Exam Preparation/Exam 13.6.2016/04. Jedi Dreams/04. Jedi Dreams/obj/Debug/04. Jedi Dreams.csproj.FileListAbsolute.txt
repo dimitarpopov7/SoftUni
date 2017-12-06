@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\bin\Debug\_04.Jedi_Dreams.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\obj\Debug\04. Jedi Dreams.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\obj\Debug\_04.Jedi_Dreams.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Jedi Dreams\04. Jedi Dreams\obj\Debug\_04.Jedi_Dreams.pdb
