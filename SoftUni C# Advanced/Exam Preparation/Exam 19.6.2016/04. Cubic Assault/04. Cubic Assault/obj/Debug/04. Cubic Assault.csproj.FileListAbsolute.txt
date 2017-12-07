@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\04. Cubic Assault\04. Cubic Assault\obj\Debug\04. Cubic Assault.csprojResolveAssemblyReference.cache
