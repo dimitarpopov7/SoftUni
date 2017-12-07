@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\bin\Debug\_1.Arrange_Integers.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\bin\Debug\_1.Arrange_Integers.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\bin\Debug\_1.Arrange_Integers.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\obj\Debug\1. Arrange Integers.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\obj\Debug\_1.Arrange_Integers.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Arrange Integers\1. Arrange Integers\obj\Debug\_1.Arrange_Integers.pdb

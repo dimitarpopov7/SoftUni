@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\bin\Debug\3.Basic MarkUp.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\bin\Debug\3.Basic MarkUp.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\bin\Debug\3.Basic MarkUp.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\obj\Debug\3.Basic MarkUp.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\obj\Debug\3.Basic MarkUp.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3.Basic MarkUp\3.Basic MarkUp\obj\Debug\3.Basic MarkUp.pdb
