@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\bin\Debug\_2.SoftUni_Party.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\bin\Debug\_2.SoftUni_Party.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\bin\Debug\_2.SoftUni_Party.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\obj\Debug\2. SoftUni Party.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\obj\Debug\_2.SoftUni_Party.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. SoftUni Party\2. SoftUni Party\obj\Debug\_2.SoftUni_Party.pdb

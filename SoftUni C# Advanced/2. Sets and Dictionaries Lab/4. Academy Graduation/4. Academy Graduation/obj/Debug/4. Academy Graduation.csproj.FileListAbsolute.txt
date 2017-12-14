@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Academy Graduation\4. Academy Graduation\bin\Debug\_4.Academy_Graduation.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Academy Graduation\4. Academy Graduation\bin\Debug\_4.Academy_Graduation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Academy Graduation\4. Academy Graduation\bin\Debug\_4.Academy_Graduation.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Academy Graduation\4. Academy Graduation\obj\Debug\_4.Academy_Graduation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Academy Graduation\4. Academy Graduation\obj\Debug\_4.Academy_Graduation.pdb

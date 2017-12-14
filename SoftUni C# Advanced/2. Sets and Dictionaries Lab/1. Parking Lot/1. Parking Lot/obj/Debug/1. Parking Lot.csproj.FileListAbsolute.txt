@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\bin\Debug\_1.Parking_Lot.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\bin\Debug\_1.Parking_Lot.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\bin\Debug\_1.Parking_Lot.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\obj\Debug\1. Parking Lot.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\obj\Debug\_1.Parking_Lot.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Parking Lot\1. Parking Lot\obj\Debug\_1.Parking_Lot.pdb
