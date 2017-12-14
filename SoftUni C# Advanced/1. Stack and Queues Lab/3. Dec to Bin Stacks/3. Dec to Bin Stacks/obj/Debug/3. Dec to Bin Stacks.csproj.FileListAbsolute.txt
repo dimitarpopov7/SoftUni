@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Dec to Bin Stacks\3. Dec to Bin Stacks\bin\Debug\_3.Dec_to_Bin_Stacks.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Dec to Bin Stacks\3. Dec to Bin Stacks\bin\Debug\_3.Dec_to_Bin_Stacks.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Dec to Bin Stacks\3. Dec to Bin Stacks\bin\Debug\_3.Dec_to_Bin_Stacks.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Dec to Bin Stacks\3. Dec to Bin Stacks\obj\Debug\_3.Dec_to_Bin_Stacks.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Dec to Bin Stacks\3. Dec to Bin Stacks\obj\Debug\_3.Dec_to_Bin_Stacks.pdb

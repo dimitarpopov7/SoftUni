@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Matching Brackets\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Matching Brackets\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Matching Brackets\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Matching Brackets\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Matching Brackets\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Math Patato\6. Math Patato\bin\Debug\_6.Math_Patato.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Math Patato\6. Math Patato\bin\Debug\_6.Math_Patato.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Math Patato\6. Math Patato\bin\Debug\_6.Math_Patato.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Math Patato\6. Math Patato\obj\Debug\_6.Math_Patato.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Math Patato\6. Math Patato\obj\Debug\_6.Math_Patato.pdb

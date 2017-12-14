@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Hot Patato\5. Hot Patato\bin\Debug\_5.Hot_Patato.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Hot Patato\5. Hot Patato\bin\Debug\_5.Hot_Patato.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Hot Patato\5. Hot Patato\bin\Debug\_5.Hot_Patato.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Hot Patato\5. Hot Patato\obj\Debug\_5.Hot_Patato.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Hot Patato\5. Hot Patato\obj\Debug\_5.Hot_Patato.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Simple Calc\2. Simple Calc\bin\Debug\_2.Simple_Calc.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Simple Calc\2. Simple Calc\bin\Debug\_2.Simple_Calc.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Simple Calc\2. Simple Calc\bin\Debug\_2.Simple_Calc.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Simple Calc\2. Simple Calc\obj\Debug\_2.Simple_Calc.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Simple Calc\2. Simple Calc\obj\Debug\_2.Simple_Calc.pdb

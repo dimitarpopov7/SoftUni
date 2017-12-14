@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\obj\Debug\1. Reverse Strings.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Reverse Strings\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.pdb
