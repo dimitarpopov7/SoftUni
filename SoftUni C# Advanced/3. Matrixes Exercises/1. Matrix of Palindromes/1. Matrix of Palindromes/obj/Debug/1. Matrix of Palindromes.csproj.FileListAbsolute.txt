@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\obj\Debug\1. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Matrix of Palindromes\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.pdb

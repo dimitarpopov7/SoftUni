@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\obj\Debug\2. Diagonal Difference.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Diagonal Difference\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.pdb
