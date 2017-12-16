@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Maximal Sum\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Maximal Sum\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Maximal Sum\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.pdb

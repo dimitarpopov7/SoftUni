@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\bin\Debug\_6.TargetPractice.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\bin\Debug\_6.TargetPractice.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\bin\Debug\_6.TargetPractice.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\obj\Debug\_6.TargetPractice.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\obj\Debug\_6.TargetPractice.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. TargetPractice\6. TargetPractice\obj\Debug\6. TargetPractice.csprojResolveAssemblyReference.cache
