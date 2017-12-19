@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\bin\Debug\_3.Opinion_Poll.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\bin\Debug\_3.Opinion_Poll.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\bin\Debug\_3.Opinion_Poll.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\obj\Debug\3. Opinion Poll.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\obj\Debug\_3.Opinion_Poll.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Opinion Poll\3. Opinion Poll\obj\Debug\_3.Opinion_Poll.pdb
