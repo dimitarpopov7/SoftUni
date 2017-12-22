@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\bin\Debug\_7.Car_Salesman.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\bin\Debug\_7.Car_Salesman.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\bin\Debug\_7.Car_Salesman.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\obj\Debug\7. Car Salesman.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\obj\Debug\_7.Car_Salesman.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. Car Salesman\7. Car Salesman\obj\Debug\_7.Car_Salesman.pdb

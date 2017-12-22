@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\obj\Debug\6. Raw Data.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\bin\Debug\_6.Raw_Data.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\bin\Debug\_6.Raw_Data.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\bin\Debug\_6.Raw_Data.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\obj\Debug\_6.Raw_Data.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Raw Data\6. Raw Data\obj\Debug\_6.Raw_Data.pdb

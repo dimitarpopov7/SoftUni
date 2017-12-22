@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\bin\Debug\_2.Creating_Constructors.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\bin\Debug\_2.Creating_Constructors.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\bin\Debug\_2.Creating_Constructors.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\obj\Debug\2. Creating Constructors.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\obj\Debug\_2.Creating_Constructors.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Creating Constructors\2. Creating Constructors\obj\Debug\_2.Creating_Constructors.pdb
