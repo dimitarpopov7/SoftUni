@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\bin\Debug\_9.Google.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\bin\Debug\_9.Google.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\bin\Debug\_9.Google.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\obj\Debug\9. Google.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\obj\Debug\_9.Google.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Google\9. Google\obj\Debug\_9.Google.pdb

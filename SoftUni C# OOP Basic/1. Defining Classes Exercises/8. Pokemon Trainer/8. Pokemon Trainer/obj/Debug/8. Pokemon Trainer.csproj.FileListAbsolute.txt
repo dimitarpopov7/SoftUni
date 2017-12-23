@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\bin\Debug\_8.Pokemon_Trainer.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\bin\Debug\_8.Pokemon_Trainer.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\bin\Debug\_8.Pokemon_Trainer.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\obj\Debug\8. Pokemon Trainer.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\obj\Debug\_8.Pokemon_Trainer.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Pokemon Trainer\8. Pokemon Trainer\obj\Debug\_8.Pokemon_Trainer.pdb
