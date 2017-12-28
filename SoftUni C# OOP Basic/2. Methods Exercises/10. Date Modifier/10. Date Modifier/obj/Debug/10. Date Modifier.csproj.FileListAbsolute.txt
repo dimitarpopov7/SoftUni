@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Date Modifier\10. Date Modifier\bin\Debug\_10.Date_Modifier.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Date Modifier\10. Date Modifier\bin\Debug\_10.Date_Modifier.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Date Modifier\10. Date Modifier\bin\Debug\_10.Date_Modifier.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Date Modifier\10. Date Modifier\obj\Debug\_10.Date_Modifier.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Date Modifier\10. Date Modifier\obj\Debug\_10.Date_Modifier.pdb

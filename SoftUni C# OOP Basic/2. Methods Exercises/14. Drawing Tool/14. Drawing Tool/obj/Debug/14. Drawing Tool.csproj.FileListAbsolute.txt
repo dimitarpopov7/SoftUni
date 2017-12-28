@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\bin\Debug\_14.Drawing_Tool.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\bin\Debug\_14.Drawing_Tool.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\bin\Debug\_14.Drawing_Tool.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\obj\Debug\14. Drawing Tool.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\obj\Debug\_14.Drawing_Tool.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\14. Drawing Tool\14. Drawing Tool\obj\Debug\_14.Drawing_Tool.pdb
