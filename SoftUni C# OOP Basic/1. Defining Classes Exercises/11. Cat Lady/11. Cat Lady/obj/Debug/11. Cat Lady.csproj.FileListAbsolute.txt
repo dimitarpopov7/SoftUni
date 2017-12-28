@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\bin\Debug\_11.Cat_Lady.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\bin\Debug\_11.Cat_Lady.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\bin\Debug\_11.Cat_Lady.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\obj\Debug\11. Cat Lady.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\obj\Debug\_11.Cat_Lady.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\11. Cat Lady\11. Cat Lady\obj\Debug\_11.Cat_Lady.pdb

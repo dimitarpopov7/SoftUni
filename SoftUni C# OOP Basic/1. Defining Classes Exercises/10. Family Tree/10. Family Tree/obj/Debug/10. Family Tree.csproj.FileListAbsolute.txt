@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\bin\Debug\_10.Family_Tree.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\bin\Debug\_10.Family_Tree.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\bin\Debug\_10.Family_Tree.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\obj\Debug\10. Family Tree.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\obj\Debug\_10.Family_Tree.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Family Tree\10. Family Tree\obj\Debug\_10.Family_Tree.pdb
