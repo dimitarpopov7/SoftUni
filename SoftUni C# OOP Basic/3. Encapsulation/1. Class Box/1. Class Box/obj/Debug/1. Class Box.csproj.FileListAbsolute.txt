@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\bin\Debug\_1.Class_Box.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\bin\Debug\_1.Class_Box.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\bin\Debug\_1.Class_Box.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\obj\Debug\1. Class Box.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\obj\Debug\_1.Class_Box.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Class Box\1. Class Box\obj\Debug\_1.Class_Box.pdb

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\bin\Debug\_4.Shopping_Spree.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\bin\Debug\_4.Shopping_Spree.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\bin\Debug\_4.Shopping_Spree.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\obj\Debug\4. Shopping Spree.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\obj\Debug\_4.Shopping_Spree.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Shopping Spree\4. Shopping Spree\obj\Debug\_4.Shopping_Spree.pdb
