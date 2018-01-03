@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\bin\Debug\_5.Pizza_Calories.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\bin\Debug\_5.Pizza_Calories.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\bin\Debug\_5.Pizza_Calories.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\obj\Debug\5. Pizza Calories.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\obj\Debug\_5.Pizza_Calories.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Pizza Calories\5. Pizza Calories\obj\Debug\_5.Pizza_Calories.pdb

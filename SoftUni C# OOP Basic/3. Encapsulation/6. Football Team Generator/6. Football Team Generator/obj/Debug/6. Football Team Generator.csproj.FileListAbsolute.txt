@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\bin\Debug\_6.Football_Team_Generator.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\bin\Debug\_6.Football_Team_Generator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\bin\Debug\_6.Football_Team_Generator.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\obj\Debug\6. Football Team Generator.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\obj\Debug\_6.Football_Team_Generator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Football Team Generator\6. Football Team Generator\obj\Debug\_6.Football_Team_Generator.pdb
