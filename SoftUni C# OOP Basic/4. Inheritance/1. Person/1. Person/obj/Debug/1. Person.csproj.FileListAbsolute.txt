@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\bin\Debug\_1.Person.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\bin\Debug\_1.Person.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\bin\Debug\_1.Person.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\obj\Debug\1. Person.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\obj\Debug\_1.Person.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Person\1. Person\obj\Debug\_1.Person.pdb

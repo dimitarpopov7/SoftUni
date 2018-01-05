@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\bin\Debug\_3.Mankind.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\bin\Debug\_3.Mankind.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\bin\Debug\_3.Mankind.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\obj\Debug\3. Mankind.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\obj\Debug\_3.Mankind.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Mankind\3. Mankind\obj\Debug\_3.Mankind.pdb
