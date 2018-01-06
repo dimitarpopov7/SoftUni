@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\bin\Debug\_4.Online_Radio_Database.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\bin\Debug\_4.Online_Radio_Database.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\bin\Debug\_4.Online_Radio_Database.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\obj\Debug\_4.Online_Radio_Database.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\obj\Debug\_4.Online_Radio_Database.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Online Radio Database\4. Online Radio Database\obj\Debug\4. Online Radio Database.csprojResolveAssemblyReference.cache

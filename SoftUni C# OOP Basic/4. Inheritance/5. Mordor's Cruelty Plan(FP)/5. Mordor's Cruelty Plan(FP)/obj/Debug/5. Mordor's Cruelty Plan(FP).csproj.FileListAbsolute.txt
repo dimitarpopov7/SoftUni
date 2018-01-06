@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\bin\Debug\_5.Mordor_s_Cruelty_Plan_FP_.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\bin\Debug\_5.Mordor_s_Cruelty_Plan_FP_.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\bin\Debug\_5.Mordor_s_Cruelty_Plan_FP_.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\obj\Debug\5. Mordor's Cruelty Plan(FP).csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\obj\Debug\_5.Mordor_s_Cruelty_Plan_FP_.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Mordor's Cruelty Plan(FP)\5. Mordor's Cruelty Plan(FP)\obj\Debug\_5.Mordor_s_Cruelty_Plan_FP_.pdb

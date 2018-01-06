@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\bin\Debug\_6.Animals__Factory_Pattern_.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\bin\Debug\_6.Animals__Factory_Pattern_.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\bin\Debug\_6.Animals__Factory_Pattern_.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\obj\Debug\6. Animals (Factory Pattern).csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\obj\Debug\_6.Animals__Factory_Pattern_.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Animals (Factory Pattern)\6. Animals (Factory Pattern)\obj\Debug\_6.Animals__Factory_Pattern_.pdb
