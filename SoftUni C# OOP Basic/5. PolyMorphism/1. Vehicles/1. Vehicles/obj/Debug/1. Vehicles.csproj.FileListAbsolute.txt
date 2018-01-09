@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\obj\Debug\1. Vehicles.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\bin\Debug\_1.Vehicles.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\bin\Debug\_1.Vehicles.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\bin\Debug\_1.Vehicles.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\obj\Debug\_1.Vehicles.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Vehicles\1. Vehicles\obj\Debug\_1.Vehicles.pdb
