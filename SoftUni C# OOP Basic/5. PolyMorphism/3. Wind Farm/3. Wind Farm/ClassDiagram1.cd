@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3.Wind_Farm.StartUp" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Food">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Food\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Vegitable">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food\Vegitable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Meat">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food\Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Animal">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEBAAAIAMAAAAAAAAAAAAACAAAAAAAgAAAAA=</HashCode>
+      <FileName>Animals\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Mammal">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Animals\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Felime">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animals\Felime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Cat">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAAAAAAAAAAAACAAAAAAAAIAAAA=</HashCode>
+      <FileName>Animals\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Tiger">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animals\Tiger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Mouse">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animals\Mouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.Zebra">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animals\Zebra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.AnimalFactory" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimalFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Wind_Farm.FoodFactory" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoodFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

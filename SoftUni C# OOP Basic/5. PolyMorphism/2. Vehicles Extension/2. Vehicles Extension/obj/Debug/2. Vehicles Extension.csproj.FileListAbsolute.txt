@@ -4,3 +4,9 @@ c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Vehicles Extens
 c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\2. Vehicles Extension.csprojResolveAssemblyReference.cache
 c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\_2.Vehicles_Extension.exe
 c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\_2.Vehicles_Extension.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\bin\Debug\_2.Vehicles_Extension.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\bin\Debug\_2.Vehicles_Extension.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\bin\Debug\_2.Vehicles_Extension.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\2. Vehicles Extension.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\_2.Vehicles_Extension.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\2. Vehicles Extension\2. Vehicles Extension\obj\Debug\_2.Vehicles_Extension.pdb

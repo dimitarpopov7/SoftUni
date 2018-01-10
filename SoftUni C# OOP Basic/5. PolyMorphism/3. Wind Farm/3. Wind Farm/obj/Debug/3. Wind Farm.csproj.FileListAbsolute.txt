@@ -1,0 +1,12 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\obj\Debug\3. Wind Farm.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\obj\Debug\_3.Wind_Farm.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Wind Farm\3. Wind Farm\obj\Debug\_3.Wind_Farm.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\bin\Debug\_3.Wind_Farm.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\obj\Debug\3. Wind Farm.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\obj\Debug\_3.Wind_Farm.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\SoftUni\SoftUni C# OOP Basic\5. PolyMorphism\3. Wind Farm\3. Wind Farm\obj\Debug\_3.Wind_Farm.pdb
