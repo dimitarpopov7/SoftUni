@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\bin\Debug\_1.Need_For_Speed.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\bin\Debug\_1.Need_For_Speed.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\bin\Debug\_1.Need_For_Speed.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\obj\Debug\1. Need For Speed.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\obj\Debug\_1.Need_For_Speed.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Need For Speed\1. Need For Speed\obj\Debug\_1.Need_For_Speed.pdb
