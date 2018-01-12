@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_1.Avatar.Bender" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAQAAAEEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Benders\Bender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.AirBender" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Entities\Benders\AirBender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.WaterBender" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>Entities\Benders\WaterBender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.FireBender" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Benders\FireBender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.EarthBender" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\Benders\EarthBender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.Monuments" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAEAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entities\Monuments\Monuments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.AirMonument" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Monuments\AirMonument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.WaterMonument" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Monuments\WaterMonument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.EarthMonument" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Monuments\EarthMonument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.FireMonument" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Monuments\FireMonument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.Nations" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEAAAAAAgABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Entities\Nations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1.Avatar.NationsBuilder" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAQAEACAA=</HashCode>
+      <FileName>Entities\NationsBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

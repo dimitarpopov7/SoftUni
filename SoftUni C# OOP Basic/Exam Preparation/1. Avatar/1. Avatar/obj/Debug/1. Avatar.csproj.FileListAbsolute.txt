@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\bin\Debug\_1.Avatar.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\bin\Debug\_1.Avatar.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\bin\Debug\_1.Avatar.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\obj\Debug\1. Avatar.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\obj\Debug\_1.Avatar.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Avatar\1. Avatar\obj\Debug\_1.Avatar.pdb
