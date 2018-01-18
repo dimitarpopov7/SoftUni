@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\bin\Debug\_5.Border_Control.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\bin\Debug\_5.Border_Control.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\bin\Debug\_5.Border_Control.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\obj\Debug\5. Border Control.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\obj\Debug\_5.Border_Control.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Border Control\5. Border Control\obj\Debug\_5.Border_Control.pdb

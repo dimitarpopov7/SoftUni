@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\bin\Debug\_4.Telephony.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\bin\Debug\_4.Telephony.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\bin\Debug\_4.Telephony.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\obj\Debug\4. Telephony.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\obj\Debug\_4.Telephony.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Telephony\4. Telephony\obj\Debug\_4.Telephony.pdb
