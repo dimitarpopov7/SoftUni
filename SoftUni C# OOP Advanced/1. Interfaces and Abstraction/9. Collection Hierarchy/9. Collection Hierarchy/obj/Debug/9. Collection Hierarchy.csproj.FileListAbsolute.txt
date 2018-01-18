@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\bin\Debug\_9.Collection_Hierarchy.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\bin\Debug\_9.Collection_Hierarchy.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\bin\Debug\_9.Collection_Hierarchy.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\obj\Debug\9. Collection Hierarchy.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\obj\Debug\_9.Collection_Hierarchy.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\9. Collection Hierarchy\9. Collection Hierarchy\obj\Debug\_9.Collection_Hierarchy.pdb
