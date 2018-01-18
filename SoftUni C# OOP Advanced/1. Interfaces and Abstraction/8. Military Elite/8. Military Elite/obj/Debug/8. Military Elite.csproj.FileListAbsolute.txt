@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\obj\Debug\8. Military Elite.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\bin\Debug\_8.Military_Elite.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\bin\Debug\_8.Military_Elite.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\bin\Debug\_8.Military_Elite.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\obj\Debug\_8.Military_Elite.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\8. Military Elite\8. Military Elite\obj\Debug\_8.Military_Elite.pdb

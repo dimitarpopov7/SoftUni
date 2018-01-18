@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\bin\Debug\_6.Birthday_Celebrations.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\bin\Debug\_6.Birthday_Celebrations.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\bin\Debug\_6.Birthday_Celebrations.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\obj\Debug\6. Birthday Celebrations.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\obj\Debug\_6.Birthday_Celebrations.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Birthday Celebrations\6. Birthday Celebrations\obj\Debug\_6.Birthday_Celebrations.pdb
