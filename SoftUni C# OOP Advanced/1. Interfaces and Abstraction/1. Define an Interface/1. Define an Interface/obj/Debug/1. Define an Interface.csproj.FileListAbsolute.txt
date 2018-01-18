@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\bin\Debug\_1.Define_an_Interface.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\bin\Debug\_1.Define_an_Interface.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\bin\Debug\_1.Define_an_Interface.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\obj\Debug\1. Define an Interface.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\obj\Debug\_1.Define_an_Interface.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Define an Interface\1. Define an Interface\obj\Debug\_1.Define_an_Interface.pdb
