@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\_2.Multiple_Implementation.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\_2.Multiple_Implementation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\_2.Multiple_Implementation.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\_2.Multiple_Implementation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\_2.Multiple_Implementation.pdb
