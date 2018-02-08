@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\bin\Debug\_10.Explicit_Interfaces.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\bin\Debug\_10.Explicit_Interfaces.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\bin\Debug\_10.Explicit_Interfaces.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\obj\Debug\10. Explicit Interfaces.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\obj\Debug\_10.Explicit_Interfaces.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\10. Explicit Interfaces\10. Explicit Interfaces\obj\Debug\_10.Explicit_Interfaces.pdb

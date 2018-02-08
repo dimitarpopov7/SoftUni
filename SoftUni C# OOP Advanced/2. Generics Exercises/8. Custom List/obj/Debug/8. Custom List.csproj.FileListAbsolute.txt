@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\bin\Debug\_8.Custom_List.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\bin\Debug\_8.Custom_List.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\bin\Debug\_8.Custom_List.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\obj\Debug\8. Custom List.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\obj\Debug\_8.Custom_List.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\8. Custom List\obj\Debug\_8.Custom_List.pdb

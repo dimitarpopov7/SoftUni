@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\bin\Debug\_11.Tuple.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\bin\Debug\_11.Tuple.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\bin\Debug\_11.Tuple.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\obj\Debug\_11.Tuple.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\obj\Debug\_11.Tuple.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Generic Box\11. Tuple\obj\Debug\11. Tuple.csprojResolveAssemblyReference.cache
