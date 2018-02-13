@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\bin\Debug\_5.Comparing_Objects.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\bin\Debug\_5.Comparing_Objects.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\bin\Debug\_5.Comparing_Objects.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\obj\Debug\_5.Comparing_Objects.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\obj\Debug\_5.Comparing_Objects.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\5. Comparing Objects\obj\Debug\5. Comparing Objects.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\bin\Debug\_1.ListyIterator.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\bin\Debug\_1.ListyIterator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\bin\Debug\_1.ListyIterator.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\obj\Debug\1. ListyIterator.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\obj\Debug\_1.ListyIterator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\1. ListyIterator\obj\Debug\_1.ListyIterator.pdb

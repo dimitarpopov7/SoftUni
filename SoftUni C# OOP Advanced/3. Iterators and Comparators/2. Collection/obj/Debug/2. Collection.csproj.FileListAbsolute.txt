@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\bin\Debug\_2.Collection.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\bin\Debug\_2.Collection.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\bin\Debug\_2.Collection.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\obj\Debug\2. Collection.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\obj\Debug\_2.Collection.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\2. Collection\obj\Debug\_2.Collection.pdb

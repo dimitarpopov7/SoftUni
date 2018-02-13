@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\bin\Debug\_6.Strategy_Pattern.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\bin\Debug\_6.Strategy_Pattern.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\bin\Debug\_6.Strategy_Pattern.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\obj\Debug\_6.Strategy_Pattern.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\obj\Debug\_6.Strategy_Pattern.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\3. Iterators and Comparators\6. Strategy Pattern\obj\Debug\6. Strategy Pattern.csprojResolveAssemblyReference.cache
