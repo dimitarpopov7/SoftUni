@@ -1,0 +1,5 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\3. Card Power\bin\Debug\_3.Card_Power.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\3. Card Power\bin\Debug\_3.Card_Power.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\3. Card Power\bin\Debug\_3.Card_Power.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\3. Card Power\obj\Debug\_3.Card_Power.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\3. Card Power\obj\Debug\_3.Card_Power.pdb

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\bin\Debug\_2.Card_Rank.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\bin\Debug\_2.Card_Rank.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\bin\Debug\_2.Card_Rank.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\obj\Debug\2. Card Rank.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\obj\Debug\_2.Card_Rank.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\2. Card Rank\obj\Debug\_2.Card_Rank.pdb

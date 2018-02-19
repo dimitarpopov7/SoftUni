@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\bin\Debug\_1.Card_Suit.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\bin\Debug\_1.Card_Suit.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\bin\Debug\_1.Card_Suit.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\obj\Debug\1. Card Suit.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\obj\Debug\_1.Card_Suit.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\1. Card Suit\obj\Debug\_1.Card_Suit.pdb
