@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\bin\Debug\_10.Create_Custom_Class_Attribute.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\bin\Debug\_10.Create_Custom_Class_Attribute.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\bin\Debug\_10.Create_Custom_Class_Attribute.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\obj\Debug\_10.Create_Custom_Class_Attribute.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\obj\Debug\_10.Create_Custom_Class_Attribute.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\10. Create Custom Class Attribute\obj\Debug\10. Create Custom Class Attribute.csprojResolveAssemblyReference.cache
