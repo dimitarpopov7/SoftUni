@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\bin\Debug\_11.Inferno_Infinity.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\bin\Debug\_11.Inferno_Infinity.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\bin\Debug\_11.Inferno_Infinity.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\obj\Debug\_11.Inferno_Infinity.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\obj\Debug\_11.Inferno_Infinity.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\4. Enumerations and Attributes\11. Inferno Infinity\obj\Debug\11. Inferno Infinity.csprojResolveAssemblyReference.cache

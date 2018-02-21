@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_11.Inferno_Infinity.Controllers.Engine" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Controllers\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Controllers.WeaponManager" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAACAAAABAAAAAAAAEAAAAAgAAAEAAA=</HashCode>
+      <FileName>Controllers\WeaponManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Gem" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAABAAAAAQAgBAAAIAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Gem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Weapon" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAgAAFAIAAAQQAAAAEQAQCQEAAAgAAAAA=</HashCode>
+      <FileName>Models\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Gems.Amethyst" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Gems\Amethyst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Gems.Emerald" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Gems\Emerald.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Gems.Ruby" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Gems\Ruby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Weapons.Axe" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Axe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Weapons.Knife" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Knife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.Models.Weapons.Sword" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_11.Inferno_Infinity.StartUp" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_11.Inferno_Infinity.Enums.GemClarity" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAACAAAAAAAEAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\GemClarity.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_11.Inferno_Infinity.Enums.WeaponRarity" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\WeaponRarity.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
