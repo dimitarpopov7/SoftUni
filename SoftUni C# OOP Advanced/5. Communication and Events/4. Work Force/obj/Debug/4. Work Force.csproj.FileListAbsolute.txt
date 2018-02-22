@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\bin\Debug\_4.Work_Force.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\bin\Debug\_4.Work_Force.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\bin\Debug\_4.Work_Force.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\obj\Debug\4. Work Force.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\obj\Debug\_4.Work_Force.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\4. Work Force\obj\Debug\_4.Work_Force.pdb

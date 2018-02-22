@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\bin\Debug\_1.Event_Implementation.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\bin\Debug\_1.Event_Implementation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\bin\Debug\_1.Event_Implementation.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\obj\Debug\_1.Event_Implementation.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\obj\Debug\_1.Event_Implementation.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\1. Event Implementation\obj\Debug\1. Event Implementation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\bin\Debug\_2.King_s_Gambit.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\bin\Debug\_2.King_s_Gambit.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\bin\Debug\_2.King_s_Gambit.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\obj\Debug\2. King's Gambit.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\obj\Debug\_2.King_s_Gambit.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\5. Communication and Events\2. King's Gambit\obj\Debug\_2.King_s_Gambit.pdb
