@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\bin\Debug\_2.Black_Box_Integer.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\bin\Debug\_2.Black_Box_Integer.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\bin\Debug\_2.Black_Box_Integer.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\obj\Debug\_2.Black_Box_Integer.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\obj\Debug\_2.Black_Box_Integer.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\2. Black Box Integer\obj\Debug\2. Black Box Integer.csprojResolveAssemblyReference.cache

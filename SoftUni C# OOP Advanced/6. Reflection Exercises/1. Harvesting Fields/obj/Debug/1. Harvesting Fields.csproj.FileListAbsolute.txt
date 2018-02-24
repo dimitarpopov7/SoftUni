@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\bin\Debug\_1.Harvesting_Fields.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\bin\Debug\_1.Harvesting_Fields.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\bin\Debug\_1.Harvesting_Fields.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\obj\Debug\1. Harvesting Fields.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\obj\Debug\_1.Harvesting_Fields.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Exercises\1. Harvesting Fields\obj\Debug\_1.Harvesting_Fields.pdb
