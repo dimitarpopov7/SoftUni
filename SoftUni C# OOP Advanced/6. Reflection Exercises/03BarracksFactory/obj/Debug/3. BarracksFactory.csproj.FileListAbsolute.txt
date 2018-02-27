@@ -1,0 +1,6 @@
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\bin\Debug\03BarracksFactory.exe
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\obj\Debug\3. BarracksFactory.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\obj\Debug\03BarracksFactory.exe
+C:\Users\dimit\Downloads\06. CSharp-OOP-Advanced-Reflection-Exercises\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\03BarracksFactory\obj\Debug\03BarracksFactory.pdb
