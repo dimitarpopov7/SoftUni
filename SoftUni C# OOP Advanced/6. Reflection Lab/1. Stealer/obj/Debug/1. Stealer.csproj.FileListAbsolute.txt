@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\bin\Debug\_1.Stealer.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\bin\Debug\_1.Stealer.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\bin\Debug\_1.Stealer.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\obj\Debug\1. Stealer.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\obj\Debug\_1.Stealer.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\6. Reflection Lab\1. Stealer\obj\Debug\_1.Stealer.pdb
