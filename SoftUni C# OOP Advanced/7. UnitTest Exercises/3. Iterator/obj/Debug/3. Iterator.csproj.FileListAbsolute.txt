@@ -1,0 +1,6 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\bin\Debug\_3.Iterator.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\bin\Debug\_3.Iterator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\bin\Debug\_3.Iterator.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\obj\Debug\_3.Iterator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\obj\Debug\_3.Iterator.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator\obj\Debug\3. Iterator.csprojResolveAssemblyReference.cache

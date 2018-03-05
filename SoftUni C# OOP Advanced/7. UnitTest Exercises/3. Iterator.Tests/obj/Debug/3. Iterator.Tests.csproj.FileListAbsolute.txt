@@ -1,0 +1,17 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\_3.Iterator.Tests.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\_3.Iterator.Tests.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\nunit.framework.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\_3.Iterator.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\_3.Iterator.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\_3.Iterator.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\bin\Debug\nunit.framework.xml
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\obj\Debug\3. Iterator.Tests.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\obj\Debug\_3.Iterator.Tests.dll
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\3. Iterator.Tests\obj\Debug\_3.Iterator.Tests.pdb
