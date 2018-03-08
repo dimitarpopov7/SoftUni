@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\bin\Debug\_4.Bubble_Sort.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\bin\Debug\_4.Bubble_Sort.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\bin\Debug\_4.Bubble_Sort.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\obj\Debug\4. Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\obj\Debug\_4.Bubble_Sort.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\4. Bubble Sort\obj\Debug\_4.Bubble_Sort.pdb
