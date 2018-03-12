@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\bin\Debug\_5.Integration_Test.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\bin\Debug\_5.Integration_Test.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\bin\Debug\_5.Integration_Test.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\obj\Debug\5. Integration Test.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\obj\Debug\_5.Integration_Test.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\5. Integration Test\obj\Debug\_5.Integration_Test.pdb
