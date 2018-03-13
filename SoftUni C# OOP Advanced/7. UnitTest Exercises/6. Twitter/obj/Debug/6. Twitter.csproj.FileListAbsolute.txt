@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\obj\Debug\6. Twitter.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\bin\Debug\_6.Twitter.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\bin\Debug\_6.Twitter.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\bin\Debug\_6.Twitter.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\obj\Debug\_6.Twitter.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\7. UnitTest Exercises\6. Twitter\obj\Debug\_6.Twitter.pdb
