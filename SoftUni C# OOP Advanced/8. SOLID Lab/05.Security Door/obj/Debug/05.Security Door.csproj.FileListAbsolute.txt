@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\bin\Debug\05.Security Door.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\bin\Debug\05.Security Door.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\bin\Debug\05.Security Door.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\obj\Debug\05.Security Door.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\obj\Debug\05.Security Door.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\05.Security Door\obj\Debug\05.Security Door.pdb

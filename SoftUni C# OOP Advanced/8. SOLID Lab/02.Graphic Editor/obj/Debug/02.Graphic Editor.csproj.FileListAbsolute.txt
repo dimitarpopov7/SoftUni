@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\bin\Debug\02.Graphic Editor.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\obj\Debug\02.Graphic Editor.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\obj\Debug\02.Graphic Editor.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\02.Graphic Editor\obj\Debug\02.Graphic Editor.pdb

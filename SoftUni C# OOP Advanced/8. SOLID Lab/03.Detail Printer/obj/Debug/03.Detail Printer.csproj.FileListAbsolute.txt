@@ -1,0 +1,6 @@
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\bin\Debug\03.Detail Printer.exe.config
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\bin\Debug\03.Detail Printer.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\bin\Debug\03.Detail Printer.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\obj\Debug\03.Detail Printer.csprojResolveAssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\obj\Debug\03.Detail Printer.exe
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton (1)\03.Detail Printer\obj\Debug\03.Detail Printer.pdb
