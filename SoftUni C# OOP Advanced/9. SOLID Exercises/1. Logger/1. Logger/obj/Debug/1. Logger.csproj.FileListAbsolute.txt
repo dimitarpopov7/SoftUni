@@ -1,0 +1,7 @@
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\bin\Debug\_1.Logger.exe.config
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\bin\Debug\_1.Logger.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\bin\Debug\_1.Logger.pdb
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\obj\Debug\1. Logger.csprojResolveAssemblyReference.cache
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\obj\Debug\_1.Logger.exe
+c:\users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\obj\Debug\_1.Logger.pdb
+C:\Users\dimit\OneDrive\Documents\Visual Studio 2017\Projects\1. Logger\1. Logger\bin\Debug\Models\Appenders\File.txt
